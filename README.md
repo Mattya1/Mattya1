@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mattya1
-- 👀 I’m interested in comptuers and games  
-- 🌱 I’m currently learning CS50
+- 👀 I’m interested in computer science and games  
+- 🌱 I’m currently learning Computer Eingeneering
 - 📫 How to reach me mattibiundo@gmail.com
 
 <!---
